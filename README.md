@@ -1,0 +1,2 @@
+# Machine-Learning---Regression-Project
+The aim of our regression project is to create a regression model which uses publicly  available data regarding districts in California in order to accurately predict the median house  price in the district. This is currently done by a team of experts, who have an error rate of  approximately 15%. Our goal is therefore to build a ML model which predicts with equal or  better prediction accuracy than 15%.
